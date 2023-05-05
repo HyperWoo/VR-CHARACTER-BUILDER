@@ -1,2 +1,10 @@
 # FRIDAY-WAREHOUSE
-FRIDAY, a team of 3 passionate members from ABES EC, aims to revolutionize beauty by combining VR and immersive in-game experiences. With a focus on AR and VR, they seek to create an unforgettable gaming experience that transports players to another world
+<hr>
+
+## "Brings you to a world of trying and testing cosmetics at the comfort of your home."
+
+Developing In-Game Experiences through Object Modelling & Virtual Reality on Unreal Engine that enables you to try and test the cosmetics that are right for you anywhere in the globe, regardless of where you are !
+
+<br>
+
+Video :- https://cdn.fs.agorize.com/l5jE1N5PQPWiEYtY37Ww
