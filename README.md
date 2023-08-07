@@ -1,4 +1,4 @@
-# FRIDAY-WAREHOUSE
+# VR CHARACTER BUILDER
 <hr>
 
 ## "Brings you to a world of trying and testing cosmetics at the comfort of your home."
